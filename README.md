@@ -9,4 +9,4 @@ Reality is an image explorer with a tagging system. Organise your images with ta
 
 _Right click on a image will reveal the context menu where you can:_
 * Open the selected image in your preferred image viewer.
-* Add/Remove tags.
+* Add/Remove tags for the selected image.
