@@ -2,8 +2,8 @@
 
 Reality is an image explorer with a tagging system. Organise your images with tags for a better navigation experience.
 
-## Download
-Get the app from my [releases page](https://github.com/blueRoseXIV/Reality/releases). (Download the .jar file. You'll need to install java if you haven't already.)
+# Download
+Get the app from my [releases page](https://github.com/blueRoseXIV/Reality/releases). (Download the .jar file. You'll need to install JAVA if you haven't already.)
 
 # Manual
 * Use "Add Directories..." in the File Menu to add folders to Reality's database.
