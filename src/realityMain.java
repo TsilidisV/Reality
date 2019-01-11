@@ -170,6 +170,14 @@ public class realityMain extends Application
 		
 		Menu aboutMenu = new Menu("_About");
 		MenuItem githubAbout = new MenuItem("GitHub");
+		githubAbout.setOnAction(e -> {
+			try {
+				java.awt.Desktop.getDesktop().browse(java.net.URI.create("https://github.com/blueRoseXIV/Reality"));
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+		});
 		aboutMenu.getItems().addAll(githubAbout);
 		
 		MenuBar menuBar = new MenuBar();
